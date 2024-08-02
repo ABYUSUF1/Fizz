@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "589011325156",
+    "project_id": "fizz-4c8c7",
+    "storage_bucket": "fizz-4c8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589011325156:android:6a84387f497b91767c5cf1",
+        "android_client_info": {
+          "package_name": "com.example.fizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589011325156-27eeun09vppona8t6870s5k1vt766m62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fizz",
+            "certificate_hash": "bac4626119228cea8cb87f664e6eebcc848587c6"
+          }
+        },
+        {
+          "client_id": "589011325156-5hggmighmf9e5au49hvrpgpli52slo2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBqo1Aaon2P8cgYSbYUyXcwCPU4rcziU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589011325156-5hggmighmf9e5au49hvrpgpli52slo2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589011325156-66svrcgdqdgvfv50ik9b7hk94dk4f591.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fizz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
